@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rafael 
 
-<!--
-**usrafaelmendes/usrafaelmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-semester Computer Engineering student
+💻 Focused on Backend Development
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* C
+* SQL
+* Git & GitHub
+* Linux
+* Docker
+
+## 🚀 Current Project
+
+### Sistema Compara Preços
+
+A web-based MVP focused on helping companies compare supplier quotations based on effective cost and applicable tax credits.
+
+**Stack:** Java • Spring Boot • PostgreSQL • Docker • REST API
+
+## 📚 Currently Learning
+
+* Backend development with Java and Spring Boot
+* Object-oriented programming
+* SQL and database design
+* REST APIs
+* Software architecture
+
+## 📫 Contact
+
+- LinkedIn: [Rafael Mendes Barreto](https://www.linkedin.com/in/rafael-mendes-barreto-b02500379/)
+* Email: [mendesbarretorafaell@gmail.com](mailto:mendesbarretorafaell@gmail.com)
